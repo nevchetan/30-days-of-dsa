@@ -6,3 +6,4 @@ day3 -> remove duplicates from a given array in place without using memory (http
 day4 -> to find closest number to zero in a given array (https://leetcode.com/problems/find-closest-number-to-zero/)
 day5 -> To merge two given strings alternately (https://leetcode.com/problems/merge-strings-alternately)
 day07 -> to check whether the string s issub sequnce of the string t or not (https://leetcode.com/problems/is-subsequence/)
+day08 -> To check the largest prefix from a given list of strings(https://leetcode.com/problems/longest-common-prefix/)
