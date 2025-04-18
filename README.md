@@ -8,6 +8,8 @@ day5 -> To merge two given strings alternately (https://leetcode.com/problems/me
 day07 -> to check whether the string s issub sequnce of the string t or not (https://leetcode.com/problems/is-subsequence/)
 day08 -> To check the largest prefix from a given list of strings(https://leetcode.com/problems/longest-common-prefix/)
 day09 -> Best time To buy and sell of stock and gain maximum profit out of it (https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-day10->
-day11->
+day10->In this question we have a sorted array and we need to find the smallest sorted list(https://leetcode.com/problems/summary-ranges/description/)
+day11->In this we have simply given a list and a target and we need to remove it from the array
 day12-> To check if the given number is a palindrome or not(https://leetcode.com/problems/palindrome-number/)
+day13->To search a given target in the list and also check if its not present then where it would have been(https://leetcode.com/problems/search-insert-position/description/)
+day14->To find length of last word in a given string (https://leetcode.com/problems/length-of-last-word/)
