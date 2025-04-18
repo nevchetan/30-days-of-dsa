@@ -1,15 +1,17 @@
-# 30-days-of-dsa
+# 30 Days of DSA
 
-day1 -> addition of two numbers problem where we simply add two numbers
-day2 -> two sum program where a given array & target we check which two index adds to target and return the two indexes(https://leetcode.com/problems/two-sum)
-day3 -> remove duplicates from a given array in place without using memory (https://leetcode.com/problems/remove-duplicates-from-sorted-array)
-day4 -> to find closest number to zero in a given array (https://leetcode.com/problems/find-closest-number-to-zero/)
-day5 -> To merge two given strings alternately (https://leetcode.com/problems/merge-strings-alternately)
-day07 -> to check whether the string s issub sequnce of the string t or not (https://leetcode.com/problems/is-subsequence/)
-day08 -> To check the largest prefix from a given list of strings(https://leetcode.com/problems/longest-common-prefix/)
-day09 -> Best time To buy and sell of stock and gain maximum profit out of it (https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-day10->In this question we have a sorted array and we need to find the smallest sorted list(https://leetcode.com/problems/summary-ranges/description/)
-day11->In this we have simply given a list and a target and we need to remove it from the array
-day12-> To check if the given number is a palindrome or not(https://leetcode.com/problems/palindrome-number/)
-day13->To search a given target in the list and also check if its not present then where it would have been(https://leetcode.com/problems/search-insert-position/description/)
-day14->To find length of last word in a given string (https://leetcode.com/problems/length-of-last-word/)
+## Daily Challenges
+
+- **Day 1**: Addition of two numbers – simple addition of two integers.
+- **Day 2**: [Two Sum](https://leetcode.com/problems/two-sum) – Given an array and a target, return indices of the two numbers that add up to the target.
+- **Day 3**: [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) – In-place removal of duplicates without using extra memory.
+- **Day 4**: [Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/) – Find the number closest to zero in a given array.
+- **Day 5**: [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) – Merge two given strings alternately.
+- **Day 7**: [Is Subsequence](https://leetcode.com/problems/is-subsequence/) – Check whether string `s` is a subsequence of string `t`.
+- **Day 8**: [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) – Find the longest common prefix from a list of strings.
+- **Day 9**: [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) – Maximize profit from stock prices.
+- **Day 10**: [Summary Ranges](https://leetcode.com/problems/summary-ranges/description/) – Find the smallest sorted list from a sorted array.
+- **Day 11**: Remove a target element from a given list.
+- **Day 12**: [Palindrome Number](https://leetcode.com/problems/palindrome-number/) – Check if the given number is a palindrome.
+- **Day 13**: [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) – Return index if found; else return the insertion point.
+- **Day 14**: [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) – Find the length of the last word in a given string.
