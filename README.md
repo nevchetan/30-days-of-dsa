@@ -1,5 +1,7 @@
 # 30 Days of DSA
 
+<<<<<<< HEAD
+
 ## Daily Challenges
 
 - **Day 1**: Addition of two numbers – simple addition of two integers.
