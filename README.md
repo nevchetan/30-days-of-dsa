@@ -17,3 +17,6 @@
 - **Day 12**: [Palindrome Number](https://leetcode.com/problems/palindrome-number/) – Check if the given number is a palindrome.
 - **Day 13**: [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) – Return index if found; else return the insertion point.
 - **Day 14**: [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) – Find the length of the last word in a given string.
+- **Day 14**: [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) – Find the length of the last word in a given string.
+- **Day 15**: [square root of a number](https://leetcode.com/problems/length-of-last-word/) – Find the length of the last word in a given string.
+- **Day 16**: [Add Binary number](https://leetcode.com/problems/add-binary/) – sum of two binary numbers
