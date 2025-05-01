@@ -20,3 +20,5 @@
 - **Day 14**: [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) – Find the length of the last word in a given string.
 - **Day 15**: [square root of a number](https://leetcode.com/problems/length-of-last-word/) – Find the length of the last word in a given string.
 - **Day 16**: [Add Binary number](https://leetcode.com/problems/add-binary/) – sum of two binary numbers
+- **Day 17**: [Same Tree](https://leetcode.com/problems/same-tree/description/) – Same Tree or not
+- **Day 18**: [Number of 1 bits](https://leetcode.com/problems/number-of-1-bits/) – Number of 1 bits
