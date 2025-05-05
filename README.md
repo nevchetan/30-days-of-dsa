@@ -26,3 +26,4 @@
 - **Day 20**: [Plus One](https://leetcode.com/problems/plus-one/description/) – Plus One
 - **Day 21**: [Single number ](https://leetcode.com/problems/single-number/) – single number that is unique or is not repiting
 - **Day 22**: [mergetwo sorted array ](https://leetcode.com/problems/merge-sorted-array/) – To add two sorted arrays without returning anything
+- **Day 23**: [Majority element](https://leetcode.com/problems/majority-element/) – To return the majority element from a given array
