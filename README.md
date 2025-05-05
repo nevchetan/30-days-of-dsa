@@ -25,3 +25,4 @@
 - **Day 19**: [Number of 1 bits](https://leetcode.com/problems/number-of-1-bits/) – Missing value
 - **Day 20**: [Plus One](https://leetcode.com/problems/plus-one/description/) – Plus One
 - **Day 21**: [Single number ](https://leetcode.com/problems/single-number/) – single number that is unique or is not repiting
+- **Day 22**: [mergetwo sorted array ](https://leetcode.com/problems/merge-sorted-array/) – To add two sorted arrays without returning anything
