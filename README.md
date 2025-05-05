@@ -22,5 +22,6 @@
 - **Day 16**: [Add Binary number](https://leetcode.com/problems/add-binary/) – sum of two binary numbers
 - **Day 17**: [Same Tree](https://leetcode.com/problems/same-tree/description/) – Same Tree or not
 - **Day 18**: [Number of 1 bits](https://leetcode.com/problems/number-of-1-bits/) – Number of 1 bits
-- **Day 18**: [Number of 1 bits](https://leetcode.com/problems/number-of-1-bits/) – Missing value
-- **Day 18**: [Plus One](https://leetcode.com/problems/plus-one/description/) – Plus One
+- **Day 19**: [Number of 1 bits](https://leetcode.com/problems/number-of-1-bits/) – Missing value
+- **Day 20**: [Plus One](https://leetcode.com/problems/plus-one/description/) – Plus One
+- **Day 21**: [Single number ](https://leetcode.com/problems/single-number/) – single number that is unique or is not repiting
