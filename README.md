@@ -30,3 +30,4 @@
 - **Day 24**: [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) – To return True or False if the number at k distance are same
 - **Day 25**: [Missing Number](https://leetcode.com/problems/missing-number/) – To return the missing nnumber in the given array
 - **Day 26**: [move zeros](https://leetcode.com/problems/move-zeroes/) – To make changes in the array and move the zeros at the end
+- **Day 27**: [Intersection of two arrays](https://leetcode.com/problems/intersection-of-two-arrays/) – To find the intersection between the two arrays and return it into a list
