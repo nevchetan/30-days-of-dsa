@@ -29,3 +29,4 @@
 - **Day 23**: [Majority element](https://leetcode.com/problems/majority-element/) – To return the majority element from a given array
 - **Day 24**: [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) – To return True or False if the number at k distance are same
 - **Day 25**: [Missing Number](https://leetcode.com/problems/missing-number/) – To return the missing nnumber in the given array
+- **Day 26**: [move zeros](https://leetcode.com/problems/move-zeroes/) – To make changes in the array and move the zeros at the end
