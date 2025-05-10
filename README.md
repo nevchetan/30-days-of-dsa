@@ -32,3 +32,4 @@
 - **Day 26**: [move zeros](https://leetcode.com/problems/move-zeroes/) – To make changes in the array and move the zeros at the end
 - **Day 27**: [Intersection of two arrays](https://leetcode.com/problems/intersection-of-two-arrays/) – To find the intersection between the two arrays and return it into a list
 - **Day 28**: [Intersection of two arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) – To find the intersection between the two arrays and return it into a list also the no. of times its repeting
+- **Day 29**: [Third Max](https://leetcode.com/problems/third-maximum-number/description/) – To find the third max number from thegiven list
